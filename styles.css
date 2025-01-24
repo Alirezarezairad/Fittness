@@ -32,7 +32,12 @@ nav a:hover {
   color: bisque;
   border-radius: 10px;
 }
-
+.display{
+  display: flex;
+}
+svg{
+  height: 40px;
+}
 section {
   padding: 20px;
   margin: 20px auto;
